@@ -1,0 +1,2 @@
+cls
+python Process_Audio_Capturer.py

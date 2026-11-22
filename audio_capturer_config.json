@@ -1,0 +1,23 @@
+{
+    "model_path": "vosk-model-small-cn-0.22",
+    "sample_rate": 44100,
+    "chunk_size": 1024,
+    "auto_route": true,
+    "save_logs": true,
+    "log_dir": "logs",
+    "theme": "light",
+    "font_size": 12,
+    "target_process": "msedge.exe",
+    "language": "zh-cn",
+    "api_key": "",
+    "proxy": "",
+    "noise_reduction": true,
+    "gain_level": 1.0,
+    "hotkeys": {
+        "start_capture": "Ctrl+Alt+S",
+        "stop_capture": "Ctrl+Alt+X"
+    },
+    "show_window_titles": true,
+    "show_process_icons": true,
+    "auto_scroll": true
+}
